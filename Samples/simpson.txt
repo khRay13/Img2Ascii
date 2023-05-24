@@ -1,0 +1,128 @@
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                                                                                                
+                                                  ..22  ..XX    ..                                                              
+                                                  ..22  ..XX    ..                                                              
+                                          33  MMMM::ssHHMMssrr22GG  MM::                                                        
+                                          33  MMMM::ssHHMMssrr22GG  MM::                                                        
+                                          AAhhXX2222;;2255::552255HHsshhMMhh                                                    
+                                          AAhhXX2222;;2255::552255HHsshhMMhh                                                    
+                                          2255AA..ii..;;,,  ii..sshh,,hhAArrhhss..                                              
+                                          2255AA..ii..;;,,  ii..sshh,,hhAArrhhss..                                              
+                                          55                          ii  XXssXXXXhhhh                                          
+                                          55                          ii  XXssXXXXhhhh                                          
+                                          hh                                ,,::AAAA22                                          
+                                          hh                                ,,::AAAA22                                          
+                                        ..MM                                ..    55                                            
+                                        ..MM                                ..    55                                            
+                                        ,,hh                                    ..MM                                            
+                                        ,,hh                                    ..MM                                            
+                                        ::hh                                    ,,hh                                            
+                                        ::hh                                    ,,hh                                            
+                                        ;;33                              ..    XXss                                            
+                                        ;;33                              ..    XXss                                            
+                                        rrAA                              ..    XX..                                            
+                                        rrAA                              ..    XX..                                            
+                                        AAii                              ,,  ..ii                                              
+                                        AAii                              ,,  ..ii                                              
+                                        33..                              ,,  ..HH                                              
+                                        33..                              ,,  ..HH                                              
+                                        HH  ..                            ..  ::GG                                              
+                                        HH  ..                            ..  ::GG                                              
+                                      ,,SS....                            ..  AA22                                              
+                                      ,,SS....                            ..  AA22                                              
+                                      GGiirrrrii      ..rrAAss,,        ..    22..                                              
+                                      GGiirrrrii      ..rrAAss,,        ..    22..                                              
+                                      HHHHhhrrMM55AA55HH55::ssHHAA      ..    XX                                                
+                                      HHHHhhrrMM55AA55HH55::ssHHAA      ..    XX                                                
+                                    hhGG      ..  GGHH  ..      55AA..  ,,  ..::                                                
+                                    hhGG      ..  GGHH  ..      55AA..  ,,  ..::                                                
+                                    XX            hh        ..    GGXX  ,,  ..55                                                
+                                    XX            hh        ..    GGXX  ,,  ..55                                                
+                                    33      ii  ::MM        ..    ..33  ..  ..MM                                                
+                                    33      ii  ::MM        ..    ..33  ..  ..MM                                                
+                                    33    iiss  iihh        55SS  ..;;  ..  ::MM                                                
+                                    33    iiss  iihh        55SS  ..;;  ..  ::MM                                                
+                                    hh    ....    HH        AA::....55      ssAA                                                
+                                    hh    ....    HH        AA::....55      ssAA                                                
+                                    55HHGG55hhhh3322            ..3355      22::                                                
+                                    55HHGG55hhhh3322            ..3355      22::                                                
+                                      ##22,,....,,AAHH        ..;;22  ..    22                                                  
+                                      ##22,,....,,AAHH        ..;;22  ..    22                                                  
+                                      ##..          55HH22,,;;HH33::....  rr33hh                                                
+                                      ##..          55HH22,,;;HH33::....  rr33hh                                                
+                                      ##55......        223333rr    ......ii22AAMM                                              
+                                      ##55......        223333rr    ......ii22AAMM                                              
+                                      SSAAhhiirr                      ..  AAAAiiMM                                              
+                                      SSAAhhiirr                      ..  AAAAiiMM                                              
+                                      55,,                            ......::AAii                                              
+                                      55,,                            ......::AAii                                              
+                                      GG,,                            ....ss22MM                                                
+                                      GG,,                            ....ss22MM                                                
+                                    22hh                              ..  ,,MM                                                  
+                                    22hh                              ..  ,,MM                                                  
+                                    22hh..                        ..  ..  ..22                                                  
+                                    22hh..                        ..  ..  ..22                                                  
+                                      GG5555;;  ........    ::AA55AA22..  ..ii                                                  
+                                      GG5555;;  ........    ::AA55AA22..  ..ii                                                  
+                                          ss##SS22;;::iirrhhhhss..      ..  ;;                                                  
+                                          ss##SS22;;::iirrhhhhss..      ..  ;;                                                  
+                                                      MM33ss            ,,  XX                                                  
+                                                      MM33ss            ,,  XX                                                  
+                                                        ssHHrr              AAGG                                                
+                                                        ssHHrr              AAGG                                                
+                                                          ::33            22iirrAA                                              
+                                                          ::33            22iirrAA                                              
+                                                          MM55,,,,iihh22;;;;;;..SSrr                                            
+                                                          MM55,,,,iihh22;;;;;;..SSrr                                            
+                                                          33ss;;;;;;..  iiss..  ..AArr                                          
+                                                          33ss;;;;;;..  iiss..  ..AArr                                          
+                                                        ##MM            AA::  ..    HH                                          
+                                                        ##MM            AA::  ..    HH                                          
+                                                      GG22ii          iiss    ..    iiss                                        
+                                                      GG22ii          iiss    ..    iiss                                        
+                                                    ..2222;;          rr;;            ##                                        
+                                                    ..2222;;          rr;;            ##                                        
+                                                    ##iiss;;          22,,            22                                        
+                                                    ##iiss;;          22,,            22                                        
+                                                    MMiihh,,        ..22..    ..      ,,..                                      
+                                                    MMiihh,,        ..22..    ..      ,,..                                      
+                                                    ::;;XX..        ..rriirrssrrii::ii;;..                                      
+                                                    ::;;XX..        ..rriirrssrrii::ii;;..                                      
+                                                    ,,,,..          ..rr22....    ..rrAA,,                                      
+                                                    ,,,,..          ..rr22....    ..rrAA,,                                      
+                                                    HHii::        ..    hh      ....::rr                                        
+                                                    HHii::        ..    hh      ....::rr                                        
+                                                    ##XXii              hh      ..  ,,hh                                        
+                                                    ##XXii              hh      ..  ,,hh                                        
+                                                    22ii              ..hh      ..  iiss;;                                      
+                                                    22ii              ..hh      ..  iiss;;                                      
+                                                  5522::              ,,22      ..,,;;,,SS                                      
+                                                  5522::              ,,22      ..,,;;,,SS                                      
+                                                  MM;;                ::ss        XX::  ;;rr                                    
+                                                  MM;;                ::ss        XX::  ;;rr                                    
+                                                iiAA::                ii::        33..  ..GG                                    
+                                                iiAA::                ii::        33..  ..GG                                    
+                                                HH::                  ss      ..  33    ..ii                                    
+                                                HH::                  ss      ..  33    ..ii                                    
+                                                33ii                  ss      ..  XX      ii33                                  
+                                                33ii                  ss      ..  XX      ii33                                  
+                                                ..;;                  ;;..    ,,..,,      ..##                                  
+                                                ..;;                  ;;..    ,,..,,      ..##                                  
+                                                AA;;                  ::..    ....::  ..  ..hh                                  
+                                                AA;;                  ::..    ....::  ..  ..hh                                  
+                                                ssss::ssXXrrii::::::iiMM..    ..::;;      ..AA                                  
+                                                ssss::ssXXrrii::::::iiMM..    ..::;;      ..AA                                  
+                                                  HH        ,,::;;;;XXHHXX      AArr....;;AA::                                  
+                                                  HH        ,,::;;;;XXHHXX      AArr....;;AA::                                  
+                                                  55XX            ::XX;;XX3355..55..    ..GG                                    
+                                                  55XX            ::XX;;XX3355..55..    ..GG                                    
+                                                  AA::ii          ,,ii..  ,,;;rr::,,    ;;;;                                    
+                                                  AA::ii          ,,ii..  ,,;;rr::,,    ;;;;                                    
